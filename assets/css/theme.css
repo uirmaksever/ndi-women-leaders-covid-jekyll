@@ -345,6 +345,8 @@ span.post-name a,span.post-read-more a:hover {
     text-transform: uppercase;
     font-size: 13px;
     letter-spacing: 1px;
+    /* Dev */
+    margin-right: 15px;
 }
 .intro h1 {
     font-weight:700;
@@ -860,4 +862,23 @@ iframe {
     .beforefooter .footersocial { text-align: center !important;    margin-top: 1rem; }    
     .form-group .col-md-6:first-child {   margin-bottom: 1rem;}
     
+}
+/* ------------------ */
+/* Custom Stuff */
+
+img.logo {
+	width: auto;
+	height: 100px;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.navbar-slab {
+	font-family: "Roboto Slab";
+	font-size: 1.1rem;
+}
+
+.navbar-revert {
+	background-color: black;
+	color: white;
 }

@@ -1,22 +1,14 @@
 ---
 layout: page
-title: About
-comments: true
+title: Hakkında
+comments: false
 ---
 
-This website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+Ulusal Demokratik Enstitüsü (NDI), 1997’den beri Türkiye’de Hükümetler, Meclis ve sivil toplumla bir arada çalışmaktadır. Dünyada 60 kadar ülkede demokratikleşme (demokratik yönetişim) konusunda çalışan NDI, siyaseten tarafsız bir sivil toplum kuruluşudur ve NDI’ın ana odağı insandır. Demokratik yönetişimin etkinliğini güçlendirmeyi kendine şiar edinmiş olan NDI, bireyleri ve grupları; onların fikir, bilgi, deneyim ve uzmanlıklarını paylaşmak üzere bir araya getirir ve demokratik yönetişimi bu yolla destekler.
 
-**License & Download**
+NDI, kadınların liderliğini geliştirme çabasında öncü olmuştur. Enstitünün yaratıcı ve geniş kapsamlı programları, kadınların yasama organlarına, siyasi partilere ve sivil topluma lider olarak dâhil olmalarını sağlamak üzere tasarlanır. Bu programlar, kadınların politika konularında savunuculuk yapabilecekleri, siyasi makamlara aday olabilecekleri, seçilebilecekleri, etkili bir şekilde yönetebilecekleri ve sivil ve siyasi yaşamın her alanına anlamlı bir şekilde katılabilecekleri bir ortam sağlar.
 
-"Affiliates" for Jekyll is designed and developed by WowThemes.net and it is *free* for personal use.
 
-<a href="https://github.com/wowthemesnet/affiliates-jekyll-theme/archive/master.zip" target="_blank">Download - Affiliates Jekyll Theme</a>
+<a href="https://www.ndi.org/" target="_blank">Ulusslarası Demokratik Enstitüsü</a>
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
-
+<img src="{{site.baseurl}}/assets/images/logos/ndi-logo.png" alt="NDI Logo" class="logo">

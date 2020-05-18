@@ -1,12 +1,12 @@
 # Site
-name: "Affiliates Theme for Jekyll"
-title: "Affiliates Theme for Jekyll"
-description: "Jekyll Theme for Blogging"
-meta_description: "Jekyll theme for blogging."
+name: "NDI Türkiye Ekibi"
+title: "Kadın Liderler COVID 19’a karşı güçlerini birleştiriyor"
+description: "Yerel yönetimlerde rol alan kadın liderler için tasarlanmış Covid-19'la mücadelede deneyim paylaşımı toplantıları."
+meta_description: "Covid-19 Kadın Liderler Web Sitesi"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
-baseurl: '/'
+baseurl: ''
 email: 'wowthemesnet@gmail.com'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -50,3 +50,4 @@ jekyll-archives:
 # Other
 markdown: kramdown
 highlighter: rouge
+
