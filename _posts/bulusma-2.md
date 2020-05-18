@@ -1,6 +1,6 @@
 ---
 layout: post-right-sidebar
-title:  "Red Riding Hood"
+title:  "Buluşma 2"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg

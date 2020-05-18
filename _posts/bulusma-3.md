@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is Intelligence Enough"
+title:  "Buluşma 3"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
