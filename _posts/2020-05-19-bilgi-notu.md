@@ -2,7 +2,7 @@
 layout: post
 title:  "Bilgi Notu"
 author: sal
-categories: [ Jekyll, tutorial ]
+categories: [Materyal]
 image: assets/images/4.jpg
 featured: true
 ---

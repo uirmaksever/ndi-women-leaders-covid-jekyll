@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Başvurular Açıldı!"
-categories: [ Jekyll, tutorial ]
+categories: [Duyuru]
 image: assets/images/1.jpg
 featured: true
 ---
