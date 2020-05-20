@@ -15,4 +15,24 @@ collections:
     fields:
       - { name: title}
       - { name: body, widget: "markdown"}
+  - name: 'meeting'
+    label: 'Materyaller'
+    folder: '_posts/'
+    create: true
+    filter:
+      field: categories
+      value: "Materyal"
+    fields:
+      - { name: title}
+      - { name: body, widget: "markdown"}
+  - name: 'meeting'
+    label: 'Duyurular'
+    folder: '_posts/'
+    create: true
+    filter:
+      field: categories
+      value: "Duyurular"
+    fields:
+      - { name: title}
+      - { name: body, widget: "markdown"}
 publish_mode: editorial_workflow
