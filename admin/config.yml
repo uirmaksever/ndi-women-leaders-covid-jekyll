@@ -11,7 +11,7 @@ collections:
     create: true
     filter:
       field: categories
-      value: "Buluşma"
+      value: "Bulusma"
     fields:
       - { name: title}
       - { name: body, widget: "markdown"}
