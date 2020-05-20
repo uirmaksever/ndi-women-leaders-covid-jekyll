@@ -5,8 +5,14 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
 collections:
-  - name: 'blog'
-    label: 'Blog'
+  - name: 'meeting'
+    label: 'Buluşmalar'
     folder: '_posts/'
+    create: true
+    filter:
+      field: categories
+      value: "Buluşma"
     fields:
-      - { name: title }
+      - { name: title}
+      - { name: body, widget: "markdown"}
+publish_mode: editorial_workflow
