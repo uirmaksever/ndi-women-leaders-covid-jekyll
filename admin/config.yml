@@ -15,7 +15,7 @@ collections:
     fields:
       - { name: title}
       - { name: body, widget: "markdown"}
-  - name: 'meeting'
+  - name: 'materials'
     label: 'Materyaller'
     folder: '_posts/'
     create: true
@@ -25,7 +25,7 @@ collections:
     fields:
       - { name: title}
       - { name: body, widget: "markdown"}
-  - name: 'meeting'
+  - name: 'announcements'
     label: 'Duyurular'
     folder: '_posts/'
     create: true
