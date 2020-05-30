@@ -1,5 +1,5 @@
 ---
-title: Aydınlatma ve Rıza Metni
+title: "Aydınlatma ve Rıza Metni"
 categories: [Materyal]
 layout: post
 ---
