@@ -14,6 +14,7 @@ collections:
     fields:
       - { name: title}
       - { name: categories, widget: "hidden", default: ["Bulusma"]}
+      - { name: layout, widget: "hidden", default: "post"}
       - { name: body, widget: "markdown"}
       - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
   - name: 'materials'
@@ -24,6 +25,7 @@ collections:
     fields:
       - { name: title}
       - { name: categories, widget: "hidden", default: ["Materyal"]}
+      - { name: layout, widget: "hidden", default: "post"}
       - { name: body, widget: "markdown"}
       - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
   - name: 'announcements'
@@ -35,6 +37,7 @@ collections:
     fields:
       - { name: title}
       - { name: categories, widget: "hidden", default: ["Duyuru"]}
+      - { name: layout, widget: "hidden", default: "post"}
       - { name: body, widget: "markdown"}
       - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
 publish_mode: editorial_workflow
