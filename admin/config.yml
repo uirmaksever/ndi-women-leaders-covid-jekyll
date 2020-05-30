@@ -10,39 +10,31 @@ collections:
     label: 'Buluşmalar'
     folder: '_posts/meetings'
     create: true
-    # slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
-    # filter:
-    #   field: categories
-    #   value: "Bulusma"
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
       - { name: title}
-      - { name: categories, widget: "hidden", default: "Bulusma"}
+      - { name: categories, widget: "hidden", default: ["Bulusma"]}
       - { name: body, widget: "markdown"}
       - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
   - name: 'materials'
     label: 'Materyaller'
     folder: '_posts/materials'
     create: true
-    # slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
-    # filter:
-    #   field: categories
-    #   value: "Materyal"
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
     fields:
       - { name: title}
-      - { name: categories, widget: "hidden", default: "Materyal"}
+      - { name: categories, widget: "hidden", default: ["Materyal"]}
       - { name: body, widget: "markdown"}
       - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
   - name: 'announcements'
     label: 'Duyurular'
     folder: '_posts/announcements'
     create: true
-    # slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
-    # filter:
-    #   field: categories
-    #   value: "Duyuru"
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+
     fields:
       - { name: title}
-      - { name: categories, widget: "hidden", default: "Duyuru"}
+      - { name: categories, widget: "hidden", default: ["Duyuru"]}
       - { name: body, widget: "markdown"}
       - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
 publish_mode: editorial_workflow
