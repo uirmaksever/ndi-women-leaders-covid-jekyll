@@ -1,5 +1,7 @@
 ---
 title: Aydınlatma ve Rıza Metni
+categories: [Materyal]
+layout: post
 ---
 ##### Kişisel Verilerin İşlenmesi Aydınlatma ve Rıza Metni
 
