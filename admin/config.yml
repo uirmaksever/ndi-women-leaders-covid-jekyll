@@ -4,35 +4,45 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
+public_folder: "/images/uploads"
 collections:
   - name: 'meeting'
     label: 'Buluşmalar'
-    folder: '_posts/'
+    folder: '_posts/meetings'
     create: true
-    filter:
-      field: categories
-      value: "Bulusma"
+    # slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    # filter:
+    #   field: categories
+    #   value: "Bulusma"
     fields:
       - { name: title}
+      - { name: categories, widget: "hidden", default: "Bulusma"}
       - { name: body, widget: "markdown"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
   - name: 'materials'
     label: 'Materyaller'
-    folder: '_posts/'
+    folder: '_posts/materials'
     create: true
-    filter:
-      field: categories
-      value: "Materyal"
+    # slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    # filter:
+    #   field: categories
+    #   value: "Materyal"
     fields:
       - { name: title}
+      - { name: categories, widget: "hidden", default: "Materyal"}
       - { name: body, widget: "markdown"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
   - name: 'announcements'
     label: 'Duyurular'
-    folder: '_posts/'
+    folder: '_posts/announcements'
     create: true
-    filter:
-      field: categories
-      value: "Duyuru"
+    # slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    # filter:
+    #   field: categories
+    #   value: "Duyuru"
     fields:
       - { name: title}
+      - { name: categories, widget: "hidden", default: "Duyuru"}
       - { name: body, widget: "markdown"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
 publish_mode: editorial_workflow

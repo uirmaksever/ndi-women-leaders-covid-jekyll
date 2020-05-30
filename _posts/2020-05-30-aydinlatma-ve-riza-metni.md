@@ -3,23 +3,23 @@ title: "Aydınlatma ve Rıza Metni"
 categories: [Materyal]
 layout: post
 ---
-##### Kişisel Verilerin İşlenmesi Aydınlatma ve Rıza Metni
+### Kişisel Verilerin İşlenmesi Aydınlatma ve Rıza Metni
 
 İşbu Kişisel Verilerin İşlenmesi Aydınlatma ve Rıza Metni (“Aydınlatma Metni”), kişisel verilerinizin, 6698 sayılı Kişisel Verilerin Korunması Kanunu (“KVKK”)’na uygun olarak aşağıda açıklanan şartlarda ve mevzuat tarafından emredilen sınırlar çerçevesinde işlenebileceğine dair tarafınıza gerekli bilgilendirmenin yapılması için paylaşılmaktadır.
 
 KVKK Kapsamında kişisel veri kimliği belirli veya belirlenebilir gerçek kişiye ilişkin her türlü bilgiyi (“Kişisel Veri”) ve bunun bir özel türü olan özel nitelikli kişisel veri ise, ırk, etnik köken, siyasi düşünce, felsefi inanç, din, mezhep veya diğer inançlar, kılık ve kıyafet, dernek, vakıf ya da sendika üyeliği, sağlık, cinsel hayat, ceza mahkûmiyeti ve güvenlik tedbirleriyle ilgili verileri ile biyometrik ve genetik verileri (“Özel Nitelikli Kişisel Veri”) ifade eder. İşbu Aydınlatma Metni’nde Kişisel Veri ve Özel Nitelikli Kişisel Veri birlikte “Kişisel Veriler” olarak kısaltılacaktır.
 
-###### Veri Sorumlusunun ve Temsilcisinin Kimliği
+#### Veri Sorumlusunun ve Temsilcisinin Kimliği
 
 KVKK’nın 3’üncü maddesinin 1’inci fıkrasının (ı) bendinde Veri Sorumlusu, “Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiler” olarak tanımlanmıştır.
 
 Bu çerçevede Veri Sorumlusu, aşağıda bilgileri yeralanGaziosmanpaşa Mh. Filistin Cd. 2/5 Çankaya/Ankaraadresinde kayıtlı National Democratic Institute for International Affairs (NDI) Türkiye Ofisi kuruluşudur.
 
-1. ###### Kişisel Verilerinizi Toplamamızın Yöntemi ve Hukuki Sebebi Nedir?
+#### 1. Kişisel Verilerinizi Toplamamızın Yöntemi ve Hukuki Sebebi Nedir?
 
 Kişisel verileriniz üyelik başvurunuz sırasında ve/veya sonrasında yazılı ve/veya sözlü olarak ve/veya elektronik ortamda tarafımıza iletmiş olduğunuz, sağlık bilgileri de dahil olmak üzere özel nitelikli kişisel verilerinizi de içeren, ad-soyad, iş bilgileri, iletişim bilgileri, mezuniyet yılı, başarı hikayesi gibi her türlü bilgi ve belgeyi ifade etmekte olup, bu bilgiler fiziki ve dijital ortamda saklanmaktadır. Kişisel verileriniz, KVKK tarafından öngörülen temel ilkelere uygun olarak, KVKK’nın 5. ve 6. Maddelerinde belirtilen kişisel veri işleme şartları ve amaçları kapsamında işbu “Aydınlatma Metni”nde belirtilen gerçek ve tüzel kişiler ile aşağıda yer alan amaçlarla yurt içinde ve yurt dışında işlenebilmekte ve aktarılabilmektedir.
 
-2. ###### Kişisel Verilerin Hangi Amaçla İşleneceği
+#### 2. Kişisel Verilerin Hangi Amaçla İşleneceği
 
 Kişisel verileriniz,
 
@@ -34,13 +34,13 @@ Kişisel verileriniz,
 
 NDI ve ilişkili kuruluşları* ile aşağıda III. Maddede belirtilen diğer gerçek ve/veya tüzel kişiler tarafından işlenebilmektedir.
 
-###### 3.Kişisel Verilerinizi Kimlere ve Hangi Amaçla Aktarıyoruz?
+#### 3.Kişisel Verilerinizi Kimlere ve Hangi Amaçla Aktarıyoruz?
 
 KVKK ve yukarıda yer alan I ve II. Maddeler uyarınca toplanan kişisel verileriniz; KVKK tarafından öngörülen temel ilkelere uygun olarak ve KVKK’nın 8. ve 9. Maddelerinde belirtilen kişisel veri işleme şartları ve amaçları dahilinde ve yukarıda yer alan amaçlarla, NDI Türkiye Ofisi ile onun iş ortaklarına, tedarikçilerine, servis sağlayıcılarına, gerçek ve/veya tüzel kişi hissedarlarına; kanunen yetkili kamu kurumları ve özel kişilere aktarılabilmektedir.
 
-4. ###### Kişisel Veri Sahibinin KVKK’nın 11. maddesinde Sayılan Hakları
+#### 4. Kişisel Veri Sahibinin KVKK’nın 11. maddesinde Sayılan Hakları
 
-   Kişisel veri sahipleri olarak, haklarınıza ilişkin taleplerinizi, işbu Aydınlatma Metni’nde aşağıda düzenlenen yöntemlerle NDI Türkiye Ofisi’ne iletmeniz durumunda NDI Türkiye Ofisi talebin niteliğine göre talebi en geç otuz gün içinde sonuçlandıracaktır. Bu kapsamda kişisel veri sahipleri;
+Kişisel veri sahipleri olarak, haklarınıza ilişkin taleplerinizi, işbu Aydınlatma Metni’nde aşağıda düzenlenen yöntemlerle NDI Türkiye Ofisi’ne iletmeniz durumunda NDI Türkiye Ofisi talebin niteliğine göre talebi en geç otuz gün içinde sonuçlandıracaktır. Bu kapsamda kişisel veri sahipleri;
 
 * Kişisel veri işlenip işlenmediğini öğrenme,
 * Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,
@@ -55,15 +55,15 @@ KVKK’nın 13. Maddesinin 1. Fıkrası gereğince, yukarıda belirtilen haklar�
 
 Yukarıda belirtilen haklarınızı kullanmak için kimliğinizi tespit edici gerekli bilgiler ileKVKK’nın 11. Maddesinde belirtilen haklardan kullanmayı talep ettiğiniz hakkınıza yönelik açıklamalarınızı içeren talebinizi; dilekçe ile, dilekçenin imzalı bir nüshasınıGaziosmanpaşa Mh. Filistin Cd. 2/5 Çankaya/Ankara adresine kimliğinizi tespit edici belgeler ile bizzat elden iletebilir, noter kanalıyla veya KVKK Kanunu’nda belirtilen diğer yöntemler ile gönderebilir veya ilgili dilekçeyi infotr@ndi.org adresine güvenli elektronik imzalı olarak iletebilirsiniz.
 
-###### 5. Kişisel Verileriniz Ne Süreyle İşlenecektir?
+#### 5. Kişisel Verileriniz Ne Süreyle İşlenecektir?
 
 KVKK’ya uygun olarak, işbu Aydınlatma Metni’nde belirtilen amaçlarla işlenmiş olan kişisel verileriniz, KVKK md. 7/f.1.’e göre işlenmesi gerektiren amaç ortadan kalktığında ve/veya mevzuat uyarınca verilerinizi işlememiz için zorunlu kılındığımız zamanaşımı süreleri dolduğunda, silinecek, yok edilecek veya anonimleştirerek kullanılmaya devam edilecektir.
 
-###### 6. KVKK’nın Yürürlük Tarihinden Önce Alınan Kişisel Verileriniz
+#### 6. KVKK’nın Yürürlük Tarihinden Önce Alınan Kişisel Verileriniz
 
 KVKK’nın yürürlük tarihi olan 7 Nisan 2016 tarihinden önce hukuka uygun olarak elde edilmiş olan kişisel verileriniz işbu Aydınlatma Metni’nde ve KVKK’da düzenlenen şart ve koşullara uygun olarak işlenmekte, muhafaza edilmekte olup Türkiye’de işlenerek veya Türkiye dışında işlenip muhafaza edilmek üzere yurt dışına da aktarılabilecektir.
 
-###### 7. KVKK Uyarınca Kişisel Verilerinizin Açık Rıza Olmaksızın İşlenebileceği Haller
+#### 7. KVKK Uyarınca Kişisel Verilerinizin Açık Rıza Olmaksızın İşlenebileceği Haller
 
 KVKK’nın 5. Maddesi uyarınca, aşağıdaki hallerde NDI Türkiye Ofisi, açık rızanız aranmaksızın yukarıda belirtilen ve kanuna uygun olarak almış olduğu kişisel verilerinizi işleyebilir:
 
