@@ -10,7 +10,7 @@ collections:
     label: 'Buluşmalar'
     folder: '_posts/meetings'
     create: true
-    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { name: title}
       - { name: categories, widget: "hidden", default: ["Bulusma"]}
@@ -21,7 +21,7 @@ collections:
     label: 'Materyaller'
     folder: '_posts/materials'
     create: true
-    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { name: title}
       - { name: categories, widget: "hidden", default: ["Materyal"]}
@@ -32,7 +32,7 @@ collections:
     label: 'Duyurular'
     folder: '_posts/announcements'
     create: true
-    slug: "{{year}}-{{month}}-{{day}}_{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
 
     fields:
       - { name: title}
