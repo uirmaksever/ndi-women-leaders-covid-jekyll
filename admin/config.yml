@@ -17,6 +17,7 @@ collections:
       - { name: layout, widget: "hidden", default: "post"}
       - { name: body, widget: "markdown"}
       - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+      
   - name: 'materials'
     label: 'Materyaller'
     folder: '_posts/materials'
@@ -28,12 +29,12 @@ collections:
       - { name: layout, widget: "hidden", default: "post"}
       - { name: body, widget: "markdown"}
       - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+
   - name: 'announcements'
     label: 'Duyurular'
     folder: '_posts/announcements'
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-
     fields:
       - { name: title}
       - { name: categories, widget: "hidden", default: ["Duyuru"]}
