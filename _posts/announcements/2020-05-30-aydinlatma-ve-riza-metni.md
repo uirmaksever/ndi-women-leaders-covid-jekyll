@@ -24,7 +24,7 @@ Kişisel verileriniz üyelik başvurunuz sırasında ve/veya sonrasında yazıl�
 Kişisel verileriniz,
 
 * Kadın Liderler Covid-19’a Karşı Güçlerini Birleştiriyor Programı kapsamında gerçekleşen çevrimiçi görüşmelerde ortaya çıkan ses ve görüntü materyallerini, program faaliyetlerini raporlamak,
-* Program çerçevesinde toplanan iletişim adresleri, NDI’ın gelecekteki faaliyetleri konusunda bilgilendirme yapmak,
+* Program çerçevesinde toplanan iletişim adreslerini, programın diğer katılımcılarıyla paylaşmak ve NDI’ın gelecekteki faaliyetleri konusunda bilgilendirme yapmak,
 * Hizmetlerin iyileştirilmesi için kimliği ifşa edilmeden istatistiksel çalışmalarda kişisel veri ve bilgileri değerlendirilerek analiz yapabilmek,
 * Tarafınızın talep edeceği bilgi, etkinlik ve hizmetlerle ilgili tarafınıza bilgilendirme yapmak,
 * NDI tarafından muhafaza edilen kişisel verilerinizin güvenliğinin teminini sağlamak ve bu amaçla verilerinizi muhafaza etmek üzere aktarmak,
