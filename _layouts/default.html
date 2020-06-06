@@ -81,7 +81,7 @@
                 
                 
                 <li class="nav-item">                
-                    <a class="nav-link highlight" href="https://bit.ly/covid19kadinliderler">Programa katılın</a>
+                    <a class="nav-link highlight" href="https://bit.ly/covid19kadinliderlerbilginotu">Bilgi Notu</a>
                 </li> 
                 
             </ul>
@@ -129,15 +129,16 @@
                 <div class="col-md-8">
                     <h3>Kadın Liderler COVID 19’a karşı güçlerini birleştiriyor</h3>
                     <p>Yerel yönetimlerde görev alan bir kadın lider misiniz? Bir kadın Belediye Başkanı, Belediye Meclisi Üyesi ya da bir kadın Muhtar mısınız? Belki de Belediyenizde bir kadın yönetici veya çalışansınız ve COVID-19’la sahada birebir mücadele ediyorsunuz. Çevrimiçi toplantılarımızda bize katılın ve salgın boyunca neler yapabileceğinizi öğrenin!</span></p>
-                    <a class="btn btn-primary btn-lg" href="https://bit.ly/covid19kadinliderler">Webinarlara başvurun</a>
+<!--                     <a class="btn btn-primary btn-lg" href="https://bit.ly/covid19kadinliderler">Webinarlara başvurun</a> -->
                 </div>
                 <div class="col-md-4 text-right footersocial">
                     <h5>Bizi takip edin</h5>
-                    <i class="fa fa-facebook"></i>
-                    <i class="fa fa-twitter"></i>
-                    <i class="fa fa-google"></i>
-                    <i class="fa fa-pinterest"></i>
-                    <i class="fa fa-github"></i>
+                    <a href="https://www.facebook.com/National.Democratic.Institute" title="NDI Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                    <a href="https://twitter.com/ndi" title="NDI Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+                    <a href="http://instagram.com/ndidemocracy" title="NDI Instagram" target="_blank"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.youtube.com/user/ndipublicaffairs" title="NDI Youtube" target="_blank"><i class="fa fa-youtube"></i></a>
+                    <a href="http://www.linkedin.com/company/national-democratic-institute-ndi" title="NDI Linked.in" target="_blank"><i class="fa fa-linkedin"></i></a>
+
                 </div>
             </div>
         </div>
@@ -160,24 +161,27 @@
 
                 <div class="col-sm-3">
                 <div class="footer-widget">
-                <h5 class="title">İlgili Bağlantılar</h5>
-                <ul>
-                    <li><a target="_blank" href="https://www.ndi.org/">Ulusal Demokratik Enstitüsü</a></li>
-                    <li><a target="blank" href="https://bit.ly/covid19kadinliderlerbilginotu">Bilgi Notu</a></li>
-                </ul>
-                </div>
-                </div>
-
-                <div class="col-sm-3">
-                <div class="footer-widget">
                 <h5 class="title">Menü</h5>
                 <ul>
+                <li><a href="{{ site.baseurl }}/">Anasayfa</a></li>   
                 <li><a href="{{ site.baseurl }}/about">Hakkımızda</a></li>
+                <li><a href="{{ site.baseurl }}/privacy-policy">Aydınlatma ve Rıza Metni</a></li>
                 <li><a href="https://www.ndi.org">NDI</a></li> 
                 <li><a href="{{ site.baseurl }}/contact">İletişim</a></li>
                 </ul>
                 </div>
                 </div>
+                
+                <div class="col-sm-3">
+<!--                 <div class="footer-widget">
+                <h5 class="title">İlgili Bağlantılar</h5>
+                <ul>
+                    <li><a target="_blank" href="https://www.ndi.org/">Ulusal Demokratik Enstitüsü</a></li>
+                    <li><a target="_blank" href="https://bit.ly/covid19kadinliderlerbilginotu">Bilgi Notu</a></li>
+                </ul>
+                </div> -->
+                </div>
+
 
                 <div class="col-sm-3">
                     <div class="footer-widget textwidget">
@@ -191,10 +195,7 @@
                 <p class="pull-left">
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }}.
                 </p>
-                <p class="pull-right">
-                <!-- Please, leave credit to author unless you own a commercial license: https://www.wowthemes.net/freebies-license/ --> 
-                <a target="_blank" href="https://www.wowthemes.net/free-jekyll-template-affiliates/">"Affiliates Theme"</a> - Design & Code by WowThemes.net
-                </p>
+
                 <div class="clearfix"></div>
             </div>
 
@@ -211,13 +212,12 @@
 ================================================== -->
     
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-    
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
     
 <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
-    
 <script type='text/javascript' src='{{ site.baseurl }}/assets/js/masonry.pkgd.min.js'></script>
     
 <script src="{{ site.baseurl }}/assets/js/theme.js"></script>    
@@ -233,7 +233,16 @@
     });
   }
 </script>
-    
+<script src="https://cdn.jsdelivr.net/npm/resize-sensor@0.0.6/ResizeSensor.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sticky-sidebar@3.3.1/dist/jquery.sticky-sidebar.min.js"></script>
+
+<script type="text/javascript">
+  $('#sidebar').stickySidebar({
+    topSpacing: 60,
+    bottomSpacing: 60,
+    resizeSensor: true,
+  });
+</script>
 </body>
     
 </html>

@@ -38,6 +38,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-toc
         
 # Archives
 jekyll-archives:
@@ -52,3 +53,11 @@ jekyll-archives:
 markdown: kramdown
 highlighter: rouge
 
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: posts   # limit to posts
+    values:
+      is_post: true # automatically set is_post=true for all posts

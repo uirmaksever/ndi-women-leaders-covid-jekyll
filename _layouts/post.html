@@ -7,11 +7,10 @@ post_class: post-template
 
 <!-- Begin Article
 ================================================== -->
-
-	<div class="row">
+	<div id="main-content" class="row">
 
 		<!-- Sidebar -->
-        <div class="col-sm-4">
+        <div id="sidebar" class="col-sm-4">
         {% include sidebar.html %}
         </div>
 		
@@ -46,7 +45,7 @@ post_class: post-template
 
 			<!-- Post Content -->
 			<div class="article-post">
-				{{content}}
+				{{ content }}
                 <div class="clearfix"></div>
 			</div>
 

@@ -877,3 +877,24 @@ img.logo {
 	font-family: "Roboto Slab";
 	font-size: 1.1rem;
 }
+
+.sidebar{
+    will-change: min-height;
+}
+
+.sidebar__inner{
+    transform: translate(0, 0); /* For browsers don't support translate3d. */
+    transform: translate3d(0, 0, 0);
+    will-change: position, transform;
+}
+
+/* Hide toc on mobile */
+@media (max-width: 768px) {
+	#main-content #sidebar {
+		display: none;
+	}
+}
+
+.article-post {
+	overflow-wrap: break-word;
+}

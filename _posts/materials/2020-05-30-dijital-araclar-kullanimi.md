@@ -2,6 +2,7 @@
 title: Dijital Araçlar Kullanımı
 categories: Materyal
 layout: post
+toc: true
 ---
 Kadın Liderler Covid-19’a Karşı Güçlerini Birleştiriyor Programı Dijital Araçlar Dökümanı
 

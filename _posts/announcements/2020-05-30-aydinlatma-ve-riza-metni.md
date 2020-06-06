@@ -2,6 +2,8 @@
 title: "Aydınlatma ve Rıza Metni"
 categories: [Materyal]
 layout: post
+toc: true
+permalink: /privacy-policy/
 ---
 ### Kişisel Verilerin İşlenmesi Aydınlatma ve Rıza Metni
 
