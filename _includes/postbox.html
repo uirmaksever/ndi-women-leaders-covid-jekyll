@@ -9,6 +9,7 @@
     <div class="card-block">
         <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
         <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
+        <small class="text-muted">{{ post.date | date_to_string }}</small>
 <!--         <div class="metafooter">
             <div class="wrapfooter">
                 {% if post.author %}
