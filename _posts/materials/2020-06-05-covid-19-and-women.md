@@ -6,6 +6,7 @@ layout: post
 author: sal
 featured: true
 toc: true
+excerpt: "Comprehensive notes of Covid-19 and women worldwide"
 ---
 
 ## General - Women and COVID-19
