@@ -889,13 +889,10 @@ img.logo {
 }
 
 
-.toc-h3 {
+.toc-h2, .toc-h3, .toc-h4, .toc-h5, .toc-h6 {
 	margin-left: 1rem;
 }
 
-.toc-h4 {
-	margin-left: 1rem;
-}
 
 /* Hide toc on mobile */
 @media (max-width: 768px) {
@@ -906,4 +903,8 @@ img.logo {
 
 .article-post {
 	overflow-wrap: break-word;
+}
+
+.article-post table {
+	border: 1px solid #eceeef;
 }
