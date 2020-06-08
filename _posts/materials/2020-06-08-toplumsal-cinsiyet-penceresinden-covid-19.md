@@ -1,0 +1,46 @@
+---
+title: Toplumsal cinsiyet penceresinden COVID-19
+layout: post
+author: sal
+categories:
+  - Materyal
+excerpt: "Pandemi neden en çok kadınları vuruyor? Hükümetler hangi çözüm yollarına gidebilir?"
+---
+#### Bu makale, BM Kadın Birimi San Francisco Bölümü Yönetim Kurulu Direktörü ve Avrupa Kadın Lobisinde Kadına Yönelik Şiddet (VAW) Ulusal Düzeyde Uzman Nuray Özbay tarafından kaleme alınmıştır.
+[Orijinal İngilizce makale](https://apolitical.co/en/solution_article/the-gendered-impact-of-covid-19)
+
+----------
+COVID-19 krizi, toplumsal cinsiyet bağlamında kadınları orantısız biçimde daha olumsuz etkiliyor. Kadınların şu anda karşısında en zorlu mücadeleyi verdiği sağlık ve güvenlik risklerini azaltmak için toplumsal cinsiyete duyarlı kamu politikalarını ivedilikle hayata geçirmemiz gerekiyor.
+
+Yerkürenin dört bir yanında COVID-19 salgınının trajik sesleri yankılanıyor. Salgının gafil avladığı 200'den fazla ülkede, bu satırlar yazıldığı sırada [onaylanan vaka sayısı neredeyse bir milyona](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd) ulaştı. "Evde kalıp" "hayatta kalmaya" çalıştığımız bu dönemde ülkelerin getirdiği zorunlu karantinalar, sokağa çıkma yasakları ve hareket kısıtları hayatımızın bir parçası haline geldi.
+
+Her ne kadar "evlerimizde" kişisel karantinamızı uygulamak zorunda olsak da, ev bazıları için güvenli bir sığınak değil. Özellikle de evlerde gerginliğin artmasıyla [aile içi şiddet riskiyle karşı karşıya gelen](https://womenlobby.org/Women-must-not-pay-the-price-for-COVID-19-Putting-equality-between-women-and?lang=en) kadınlar ve kızlar için "evde kalmak" "hayatta kalmak" anlamına gelmeyebiliyor. Dahası, okulların kapatılması dünya çapında erkeklere kıyasla ortalama [2,5 kat daha fazla ücretsiz ev ve çocuk bakım emeği veren kadınların omuzlarına gittikçe artan bir bakım yükü binmesi anlamına geliyor ve kadınlar daha olumsuz etkileniyor](https://www.unwomen.org/en/news/in-focus/csw61/redistribute-unpaid-work).
+
+Kadınlar sağlık ve sosyal sektör işgücünün küresel olarak % 70'ini temsil ediyorlar, yani kelimenin tam anlamıyla ön saflarda mücadeleyi sürdürüyorlar. Bu durum onları hem daha büyük bir risk altına sokuyor hem de [sağlık ve psiko-sosyal ihtiyaçlarının giderilmesi için gereken öneme dikkat çekiyor](https://www.unfpa.org/sites/default/files/resource-pdf/COVID-19_A_Gender_Lens_Guidance_Note.pdf). Son olarak, COVID-19'a karşı yürütülen mücadele tesislerde, hizmetlerde ve personelde kısıtlamalara neden olabileceğinden, kadınlar için [cinsel sağlık ve üreme sağlığı](https://apolitical.co/en/solution_article/being-a-woman-shouldnt-be-a-health-risk) hizmetleri ve kaynakları pandemi sürecinde daha fazla önem arz ediyor.
+
+## Hükümetler bu dönemde neler yapabilir?
+
+Bu küresel krizle mücadelenin geneline ve kamu politikasıyla benimsenen önlemlere bakıldığında COVID-19'un yayılmasını engelleme odaklı oldukları görülüyor, ancak bu krizin cinsiyete dayalı etkilerinin acilen ele alınması gerekiyor. Halkımızın yarısını tehdit eden sağlık ve güvenlik risklerini azaltmak için COVID-19 ile mücadelede oluşturduğumuz kamu politikasında bir cinsiyet eşitliği merceği benimsememiz gerekiyor.
+
+Pandeminin [kadınları ve kızları](https://apolitical.co/en/solution_article/why-climate-change-fuels-violence-against-women) daha savunmasız pozisyonlara sokmasının yarattığı olumsuz etkileri azaltmak için ne gibi önemli kamu politikalarını hayata geçirebiliriz? Odaklanılması gereken bazı stratejik alanlara aşağıdaki örnekler verilebilir;
+
+1. **COVID-19'un etkisinin cinsiyete göre ayrımlandığı verileri toplayın.** Verilerle paralel şekillenen kararlar, etkili kamu politikası çözümlerinin de anahtarı niteliğindedir. Belirli grupların özel ihtiyaçlarını başarılı bir şekilde ele almak için, bu pandeminin farklı cinsiyetler üzerindeki birincil ve ikincil etkilerini, kesişen demografik, ırksal, sosyo-ekonomik ve tıbbi geçmişleri ile beraber net bir şekilde anlamlandırmamız gerekir. Bu verilerin standardizasyonu ve toplanmasında DSÖ, BM Ajansları ve ilgili Bakanlıklar gibi uluslararası kuruluşlarla çalışmak, etkili ve kapsayıcı politikalar ve müdahaleler oluşturmak için hayati önem taşıyan bir ilk adım niteliğindedir.
+
+**Kadınlar sağlık ve sosyal sektör iş gücünün küresel olarak % 70'ini temsil ediyorlar, yani kelimenin tam anlamıyla ön saflarda mücadeleyi sürdürüyorlar. Bu durum onları hem daha büyük bir risk altına sokuyor hem de sağlık ve psikososyal ihtiyaçlarının giderilmesi için gereken öneme dikkat çekiyor.**
+
+2. **Şiddet ve ayrımcılığı önleyen yasal çerçeveleri ve uluslararası / ulusal düzeydeki yasaları tekrar gözden geçirin ve pandemi sürecinde bu yasaların geçerliliğini ve uygulanabilirliğini iletin.** [İstanbul Sözleşmesi](https://apolitical.co/en/solution_article/violence-against-women-reading-list-the-10-essential-reports) olarak da bilinen, aile içi şiddet de dahil olmak üzere kadına yönelik şiddetin önlenmesi ve şiddetle mücadeleye ilişkin [Avrupa Konseyi Sözleşmesi](https://www.coe.int/en/web/istanbul-convention/home?), kadına yönelik şiddetle mücadele konusunda en kapsamlı uluslararası sözleşme olarak kabul ediliyor. 46 ülkenin ve Avrupa Birliği üye devletlerinin imzaladığı ve 34 ülkenin de onayladığı bu Sözleşme, salgın da dahil olmak üzere her koşulda [tüm tarafları bağlıyor](https://www.coe.int/en/web/conventions/full-list/-/conventions/treaty/210/signatures).
+
+Bu Sözleşmenin ve ilgili ulusal yasaların uygunluğunu ve uygulanabilirliğini iletmek ve tüm kolluk kuvvetleri, sosyal hizmetler, ilgili bakanlıklar ve adalet sektörü tarafından hizmet sunumunun bu anlamda sürdürülmesi esastır. Ulusal kriz hatlarıyla ilgili kamu iletişim kampanyaları düzenlemek ve mağdurlara zamanında ve yeterli rehberlik sağlamak için çevrim içi / telefon üzerinden hizmet yapılarını geliştirmek hayati nitelikteki adımlardan sayılabilir. Ayrıca, ulusal adalet sistemlerinin kullandığı bilişim altyapısının güçlendirilmesi ve rehberlik, şikayet sunumu, dava takibi gibi çevrim içi yasal hizmetlere olanak sağlayan yeni dijital teknolojilerin getirilmesi, mağdurlara sağlanan desteğin boyutu ve kalitesini de önemli ölçüde artırabilir.
+
+3. **Kadına yönelik şiddet (KYŞ) konusunda uzmanlığa sahip bağımsız kadın örgütleriyle diyalogu ve işbirliğini güçlendirin.** Kadına yönelik şiddet için çalışan kadın örgütleri ile halihazırda yapılmamışsa bir acil bir iletişim platformu oluşturun. Gelen vakalar ve vakaların acil ihtiyaçlarının yanı sıra bu dönemde hizmete devam edebilmeleri için gerekli kaynaklara ilişkin veri toplayın. Sadece mağdurların deneyimlerinden öğrenmek ve bu bilgiler üzerinden strateji oluşturmak değil, aynı zamanda bu örgütleri desteklemek için bir bütçe ayırmak da kadına yönelik şiddet ile mücadelede hizmet sunumunun sürdürülmesi için hayati önem taşımaktadır.
+
+4. **Risk altındaki kadınlara yönelik sağlık ve koruma hizmetlerinin erişilebilir olduğundan, herkesçe bilindiğinden ve kaynakların yeterli olduğundan emin olun.** Üreme çağındaki kadınlara, hamile ve/veya risk gruplarındaki kadınlara mevcut hizmetler ve konumları hakkında doğru bilgilerin verildiğinden emin olun. Bu süreçte Ulusal Sağlık Bakanlıklarını desteklemek için Dünya Sağlık Örgütü (WHO) ve diğer BM ajansları ile çalışmak yararlı olabilir. Hizmet sunumunu iyileştirmek için, her şehir/bölgedeki münferit hastanelerin veya kliniklerin kadına şiddet (KYŞ) vakalarına tahsis edilmesi iyi bir çözüm olabilir.
+
+**Pandemi koşulları mevcut cinsiyete dayalı eşitsizlikleri daha da derinleştirirken, kadınlar ve kızlar için yaşamı daha da zorlaştırıyor.**
+
+Bu anlamda, mağdurlara yönelik sığınma evlerinin ve geçici barınma hizmetlerinin kapsamının genişletilmesi ve bu tesislere ait kaynakların ve sağlık hizmetlerinin iyileştirilmesi de son derece önemli. Sığınma evlerinde sağlık ve hijyen koşullarının düzenlenmesi ve COVID-19 tanısı konan kadınlara güvenli alanların tahsis edilmesi, ivedilikle ele alınması gereken diğer eylemler arasında.
+
+5. **Kadınlar için artan bakım yükünü görünür hale getirin, yükü hafifletmek için yeni programlar tanıtın ve hane halkını evdeki bakım görevlerini paylaşmaya cesaretlendirmek için kampanyalar düzenleyin.** Evde eğitim programlarının asgari ebeveyn rehberliği gerektirecek şekilde geliştirilmesi, resmi müfredatı tamamlamak için yeni uzaktan eğitim araçlarının kullanılması ve alternatif çevrimiçi pedagojik faaliyetlerin ve programların tasarlanması ebeveynler üzerindeki ekstra bakım yükünün dengelenmesine yardımcı olabilir. Ayrıca, bakım yükünü görünür kılmak için sosyal medya aracılığıyla ulusal veya uluslararası kampanyalar düzenlemek ve tüm hane halkı üyelerini ev işlerine katılmaya cesaretlendirmek, bu süreçte artmış olan toplumsal cinsiyete dayalı ayrımın ortadan kaldırılmasında etkili bir yol olabilir.
+Pandemi koşulları mevcut cinsiyete dayalı eşitsizlikleri daha da derinleştirirken, kadınların ve kızlar için yaşamı daha da zorlaştırıyor. Şimdi 60'ların ünlü feminist sloganını tekrar raflardan gündeme taşımanın ve "kişisel olan politiktir" demenin zamanıdır.
+
+Bir çok kadın için güvenli olmayan o evlere daha yakından bakalım, hayatta kalan kadınların kişisel hikayelerini dinleyelim, bakım emeğini yeniden paylaştıralım ve herkes için güvenli ve sağlam kamu politikaları oluşturalım.
