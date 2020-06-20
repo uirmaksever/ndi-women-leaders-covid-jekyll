@@ -8,7 +8,7 @@ favicon: 'assets/images/favicon.ico'
 paginate: 12
 baseurl: ''
 email: 'infotr@ndi.org'
-google_analytics: 'UA-170126296-1'
+# google_analytics: 'UA-170126296-1'
 disqus: 'demowebsite'
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
 
@@ -39,6 +39,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-toc
+  - jekyll-analytics
         
 # Archives
 jekyll-archives:
@@ -61,3 +62,9 @@ defaults:
       type: posts   # limit to posts
     values:
       is_post: true # automatically set is_post=true for all posts
+
+# Google Analytics (addon)
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-170126296-1      # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
