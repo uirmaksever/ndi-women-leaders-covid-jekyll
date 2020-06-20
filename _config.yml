@@ -63,6 +63,7 @@ defaults:
     values:
       is_post: true # automatically set is_post=true for all posts
 
+
 # Google Analytics (addon)
 jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics
