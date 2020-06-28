@@ -40,7 +40,6 @@ plugins:
   - jekyll-archives
   - jekyll-toc
   - jekyll-analytics
-  - jenkyll-embed-video
         
 # Archives
 jekyll-archives:

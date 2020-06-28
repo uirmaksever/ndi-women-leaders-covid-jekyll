@@ -18,5 +18,4 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'jekyll-toc'
     gem 'jekyll-analytics'
-    gem 'jekyll-embed-video', github: "nathancy/jekyll-embed-video"
 end
