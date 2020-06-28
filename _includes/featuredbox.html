@@ -12,9 +12,8 @@
         </div>
         {% endif %}
         <div class="{% if post.image %} col-md-7 {% else %} col-md-12{% endif %} bg-gradient-primary">
-            <div class="card-block">
-                <h2 class="card-title"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-                <hr class="my-4">
+            <div class="card-block p-2">
+                <h2 class="card-title p-2"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
                 <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:25 }}</h4>
 <!--                 <div class="metafooter">
                     <div class="wrapfooter">

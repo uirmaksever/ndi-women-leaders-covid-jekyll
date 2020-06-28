@@ -1,0 +1,9 @@
+<div class="card border-primary bg-light p-2">
+	<div class="card-title">
+		<h4>{{ include.person_name }}</h4>
+		<strong class="text-muted">{{ include.person_title }}</strong>
+	</div>
+	<div class="card-body p-2">
+		{% include drive_video.html video_id=include.video_id %}
+	</div>
+</div>
